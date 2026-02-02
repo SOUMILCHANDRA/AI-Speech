@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Project Specific
+output/
+temp_audio.wav
+uploads/
+*.wav
+*.mp3
+*.log
+
+# IDE
+.vscode/
+.idea/

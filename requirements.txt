@@ -1,0 +1,12 @@
+openai-whisper
+flask
+edge-tts
+groq
+librosa
+pydub
+numpy
+scipy
+google-genai
+soundfile
+torch
+gTTS
