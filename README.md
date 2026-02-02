@@ -22,7 +22,11 @@ A comprehensive audio analysis tool and web application designed to help users m
 2.  **FFmpeg** installed and added to your system PATH (required for audio processing).
 
 ### Setup
-1.  **Clone/Download** this repository.
+1.  **Clone the Repository:**
+    ```bash
+    git clone https://github.com/SOUMILCHANDRA/AI-Speech.git
+    cd AI-Speech
+    ```
 2.  **Install Dependencies:**
     ```bash
     pip install -r requirements.txt
